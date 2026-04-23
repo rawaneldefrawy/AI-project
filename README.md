@@ -43,7 +43,7 @@ The game allows users to play Sudoku, check their solution, or solve it automati
 ## 👩‍💻 Author
 
 rawan galal galal eldefrawy
-aya ahmed abo mosullam
+aya ahmed abo mosalam
 shereen mohamed abd elrahman
 
 ---
